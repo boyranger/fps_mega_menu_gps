@@ -2,7 +2,7 @@
 #include <SoftwareSerial.h>
 #include <SPI.h>
 #include <Adafruit_GFX.h>
-#include <Adafruit_PCD8544.h>
+//#include <Adafruit_PCD8544.h>
 #include <SoftwareSerial.h>
 #include <TinyGPS.h>
 #include "Adafruit_GFX.h"// Hardware-specific library
